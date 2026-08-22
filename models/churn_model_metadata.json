@@ -1,0 +1,29 @@
+{
+    "model":"Logistic Regression",
+    "observation_window_days":90,
+    "prediction_window_days":30,
+    "reference_threshold":0.7,
+    "roc_auc":0.8161065265,
+    "pr_auc":0.027882727,
+    "precision":0.035403805,
+    "recall":0.2517921147,
+    "f1":0.0620788689,
+    "features":[
+        "total_events",
+        "active_days",
+        "active_months",
+        "activity_recency_days",
+        "avg_events_per_active_day",
+        "events_per_active_month",
+        "events_per_tenure_month",
+        "tenure_days_at_cutoff",
+        "tenure_months_at_cutoff",
+        "monthly_recurring_revenue",
+        "trial",
+        "is_recently_active",
+        "is_low_engagement",
+        "plan",
+        "billing_frequency",
+        "acquisition_source"
+    ]
+}
