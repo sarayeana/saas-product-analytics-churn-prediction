@@ -1,0 +1,3 @@
+is_churned,customers,total_monthly_revenue,average_monthly_revenue,median_monthly_revenue,customer_status
+0,27152,1122901.0,41.35610636417207,29.0,Retained
+1,2848,174252.0,61.18398876404494,29.0,Churned

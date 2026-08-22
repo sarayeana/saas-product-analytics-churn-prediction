@@ -1,0 +1,5 @@
+revenue_segment,customers,churned_customers,churn_rate
+Low Revenue,7500,0,0.0
+Lower-Mid Revenue,7500,622,8.293333333333333
+Upper-Mid Revenue,7500,1326,17.68
+High Revenue,7500,900,12.0
